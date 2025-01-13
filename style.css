@@ -714,7 +714,7 @@ h1{
 .webrightimg{
     max-width: 30.375rem;
     /* margin-bottom: -5rem; */
-    margin-right: 4rem;
+    margin-right: 5rem;
     margin-left: 0rem;
     animation: rightimg;
     animation-timeline: view(80% 0%);
@@ -734,6 +734,7 @@ h1{
 
 .midport-pic{
     display: flex;
+    justify-content: space-between;
 }
 
 #mid-prt{
